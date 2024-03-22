@@ -1,12 +1,10 @@
 {
-    "name": "OPOS",
-    "symbol": "OPOS",
+    "name": "DNC",
+    "symbol": "DNC",
     "description": "Only Possible On Solana",
     "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Developer Portal"
-      }
-    ]
+     "extensions": {
+        "twitter": "https://twitter.com/dogsncatsblast",
+        "telegram": "https://t.me/dccblast"
+    }
   }
